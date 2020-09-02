@@ -1,0 +1,1 @@
+<view><uni-search-bar class="input_" vue-id="50cad900-1" radius="{{100}}" bgColor="#ffffff" bind:__l="__l"></uni-search-bar><view class="list"><view class="row"><image src="/static/classify/1.jpg" mode="widthFix"></image><view class="info"><text>雅诗兰黛</text><text>原价￥45</text><text>现价￥23</text><text>3565评论</text></view></view></view><view class="tishi">没有数据亲！</view></view>

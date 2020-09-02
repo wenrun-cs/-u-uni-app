@@ -1,0 +1,95 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wxec293c0b5485fd44",
+  "projectname": "小U商城",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "index",
+          "query": "",
+          "id": 0,
+          "pathName": "pages/index/index"
+        },
+        {
+          "name": "details",
+          "query": "",
+          "id": 1,
+          "pathName": "pages/details/details"
+        },
+        {
+          "name": "cart",
+          "query": "",
+          "id": 2,
+          "pathName": "pages/cart/cart"
+        },
+        {
+          "name": "confirm",
+          "query": "",
+          "id": 3,
+          "pathName": "pages/confirm/confirm"
+        },
+        {
+          "name": "classify",
+          "query": "",
+          "id": 4,
+          "pathName": "pages/classify/classify"
+        },
+        {
+          "name": "mine",
+          "query": "",
+          "id": 5,
+          "pathName": "pages/mine/mine"
+        },
+        {
+          "name": "send",
+          "query": "",
+          "id": 6,
+          "pathName": "pages/send/send"
+        },
+        {
+          "name": "search",
+          "query": "",
+          "id": 7,
+          "pathName": "pages/search/search"
+        },
+        {
+          "name": "product",
+          "query": "",
+          "id": 8,
+          "pathName": "pages/product/product"
+        },
+        {
+          "name": "order",
+          "query": "",
+          "id": 9,
+          "pathName": "pages/order/order"
+        }
+      ]
+    }
+  }
+}

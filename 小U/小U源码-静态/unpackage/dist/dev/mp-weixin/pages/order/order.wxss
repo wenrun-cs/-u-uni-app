@@ -1,0 +1,47 @@
+
+.row{
+	margin: 10rpx 20rpx;
+	/* height: 240rpx; */
+	border: 1rpx solid #AAAAAA;
+	border-radius: 30rpx;
+}
+.imagebox{
+	float: left;
+	margin:10rpx;
+}
+.products{
+	overflow: hidden;
+}
+image{
+	width: 160rpx;
+	margin-left: 10rpx;
+}
+.info{
+	/* position: absolute;
+	top: 180rpx;
+	right: 50rpx; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 25rpx;
+	/* width: 340rpx; */
+	padding: 20rpx;
+	text-align: right;
+}
+.info text:nth-of-type(2){
+	color: red;
+}
+.info text:nth-of-type(3){
+	font-size: 20rpx;
+	color: #AAAAAA;
+}
+.tishi{
+	line-height: 200rpx;
+	text-align: center;
+	font-size: 40rpx;
+	color: #006699;
+}
+
